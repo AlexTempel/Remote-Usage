@@ -1,0 +1,9 @@
+Technologies I want to use
+- AWS or Vercel
+- Cloudflare
+- React
+- Postgres
+- C++ (Host App)
+- Typescript (Web App)
+- RestAPI
+- Docker or Nix
