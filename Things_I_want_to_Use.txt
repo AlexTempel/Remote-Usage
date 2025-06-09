@@ -7,3 +7,5 @@ Technologies I want to use
 - Typescript (Web App)
 - RestAPI
 - Docker or Nix
+- Boost
+- CMake
