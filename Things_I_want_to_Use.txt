@@ -6,6 +6,8 @@ Technologies I want to use
 - C++ (Host App)
 - Typescript (Web App)
 - RestAPI
-- Docker or Nix
+- Docker
 - Boost
 - CMake
+- Redis
+- Memcache
